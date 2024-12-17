@@ -6,8 +6,8 @@
   "modelProvider": "anthropic",
   "settings": {
     "secrets": {
-      "DISCORD_APPLICATION_ID": "1317495456200261733",
-      "DISCORD_BOT_TOKEN": "MTMxNzQ5NTQ1NjIwMDI2MTczMw.G9e6Fv.M2whqGTPCy-0sJ2-ovnp8ZH0ZKqiJTL2YBHQBk"
+      "DISCORD_APPLICATION_ID": "",
+      "DISCORD_BOT_TOKEN": ""
         },
     "voice": {
       "model": "en_US-female-medium"
