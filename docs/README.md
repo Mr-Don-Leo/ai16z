@@ -1,17 +1,11 @@
 # Eliza - Multi-agent simulation framework
 
-# https://github.com/ai16z/eliza
-
-# Visit https://eliza.builders for support
-
 # dev branch
 
 <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
 
-_As seen powering [@DegenSpartanAI](https://x.com/degenspartanai) and [@MarcAIndreessen](https://x.com/pmairca)_
-
 - Multi-agent simulation framework
-- Add as many unique characters as you want with [characterfile](https://github.com/lalalune/characterfile/)
+- Add as many unique characters
 - Full-featured Discord and Twitter connectors, with Discord voice channel support
 - Full conversational and document RAG memory
 - Can read links and PDFs, transcribe audio and videos, summarize conversations, and more
